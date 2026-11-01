@@ -1,0 +1,62 @@
+{
+  "categorias": {
+    "gestion": "Instrumentos de gestión",
+    "planes": "Planes de trabajo",
+    "manuales": "Manuales institucionales",
+    "egresados": "Egresados y empleabilidad",
+    "riesgo": "Gestión del riesgo de desastres",
+    "convenios-empresas": "Convenios con empresas",
+    "convenios-universidades": "Convenios con universidades",
+    "horarios": "Horarios de laboratorios",
+    "formatos": "Formatos de trámite",
+    "tasas": "Tasas y derechos"
+  },
+  "orden": [
+    "gestion",
+    "planes",
+    "manuales",
+    "formatos",
+    "tasas",
+    "egresados",
+    "riesgo",
+    "convenios-universidades",
+    "convenios-empresas",
+    "horarios"
+  ],
+  "documentos": [
+    {
+      "id": "fut-2026",
+      "titulo": "Formato Único de Trámite (FUT)",
+      "categoria": "formatos",
+      "estado": "vigente",
+      "periodo": "2026–2032",
+      "fecha": null,
+      "resolucion": "Anexo 1 del Manual de Procesos Académicos 2026–2032",
+      "descripcion": "Solicitud con carácter de declaración jurada que el Manual de Procesos Académicos exige como requisito en la mayoría de trámites ante Mesa de Partes.",
+      "nota": null,
+      "archivo": "tramites/vigentes/formato-unico-de-tramite.pdf",
+      "paginas": 1,
+      "destinos": [
+        "mesa-de-partes",
+        "tupa"
+      ]
+    },
+    {
+      "id": "tasas-2025",
+      "titulo": "Relación de diversas tasas de recaudación, ejercicio 2025",
+      "categoria": "tasas",
+      "estado": "no_vigente",
+      "periodo": "Ejercicio 2025",
+      "fecha": null,
+      "resolucion": "Anexo 2 del Manual de Procesos Académicos 2026–2032",
+      "descripcion": "Conceptos y montos de tasas del instituto publicados para el ejercicio 2025.",
+      "nota": "Corresponde al ejercicio 2025. Confirma el monto vigente con el instituto antes de realizar cualquier pago.",
+      "archivo": "tramites/no-vigentes/tasas-de-recaudacion-2025.pdf",
+      "paginas": 2,
+      "destinos": [
+        "tupa",
+        "mesa-de-partes"
+      ]
+    }
+  ]
+}

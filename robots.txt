@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /configuracion/
+Disallow: /almacenamiento/
+Disallow: /redes-sociales/
+Disallow: /plantillas/
+Disallow: /recursos/datos/
+Disallow: /paginas/contacto/contacto-envio.php
+
+Sitemap: https://iestp-mac.edu.pe/sitemap.xml
